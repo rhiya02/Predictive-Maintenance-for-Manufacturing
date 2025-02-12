@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/your-repo-name.git
 
 2. Install the required dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 3. Open the Jupyter Notebook:
-  jupyter notebook Predictive_Maintenance.ipynb   
+  `jupyter notebook Predictive_Maintenance.ipynb`  
